@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash
+echo "alias 1='cd $HOME/ST && chmod +x ST && ./ST'" >> $HOME/.bashrc
+echo "快捷命令 'ST' 已创建，你可以通过1进入工具"
+source ~/.bashrc
