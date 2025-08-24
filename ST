@@ -1,37 +1,4 @@
-#!/bin/bash
-chmod +x 进入工具
-chmod +x datzj
-chmod +x 主
-chmod +x jzs
-chmod +x MH
-chmod +x wstuexp
-chmod +x syy
-chmod +x zjuexp
-chmod +x 修改伪实体
-chmod +x 抓载具
-chmod +x zxb
-chmod +x 淘汰播报
-chmod +x wstzxb
-chmod +x 音乐播放
-chmod +x tqpz
-chmod +x datjb
-chmod +x zdat
-chmod +x 自动写配料表
-chmod +x uexpwxcjb
-chmod +x uexpFL
-chmod +x uexpdb
-chmod +x datdb
-chmod +x 64Kjb
-chmod +x mroot
-chmod +x dj
-chmod +x sy/dbjb/fz
-chmod +x sy/dbjb/paks
-chmod +x sy/dbjb/quickbms
-chmod +x sy/dbjb/unpack.bms
-chmod +x sy/dbjb/打包.bms
-chmod +x sy/dbjb/解包.bms
-chmod +x sy/dbjb/非
-
+bash 授权
 base_dir="/storage/emulated/0/ST制作区"
 sub_dirs=(
     "pak"
@@ -62,8 +29,3 @@ done
 echo "所有目录创建完成！"
 
 ./进入工具
-
-
-
-
-
